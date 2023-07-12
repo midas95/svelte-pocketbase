@@ -10,7 +10,7 @@ This project is being built in a series on my [YouTube Channel](https://youtube.
 1. Clone the branch for that episode (replace `episode-1` with whatever episode you are looking to clone):
 
     ```sh
-    $ git clone --single-branch --branch episode-1 https://github.com/huntabyte/showcase.git
+    $ git clone --single-branch --branch episode-1 https://github.com/sweatydev/svelte-pocketbase.git
     ```
 
 2. Start PocketBase Server
@@ -45,7 +45,7 @@ This project is being built in a series on my [YouTube Channel](https://youtube.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/huntabyte/showcase.git
+    git clone https://github.com/sweatydev/svelte-pocketbase.git
     ```
 
 2. Start PocketBase Server
